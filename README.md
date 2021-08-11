@@ -5,16 +5,19 @@
 > A curated list of awesome things related to Julia's Web framework Genie. Inspired by awesome-quasar
 
 - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Official Community](#official-community)
+    - [Community Projects](#unofficial-community-projects)
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
       - [Video Tutorials](#video-tutorials)
-      - [Articles](#articles)
-- [Community App Extensions](#community-app-extensions)
-- [Other Community Components and Tools](#other-community-components-and-tools)
-- [Projects Using Genie](#projects-using-genie)
+      - [Articles/Blogs](#articles)
+- [Genie VSCode/VSCodium/VIM/Emacs/other editor Plugins](#community-tools)
+- [Official Example Projects Using Genie](#official-projects)
 
 # Resources
+
+# unofficial-community-projects
+
+1) [Genie+Vue3+Plotly+Babylon playground](https://github.com/AlbaIntelligence/Genie_Vue3_Plotly_Babylon_playground__Genie_side) by AlbaIntelligence@github
+
+2) [MVC app in Genie deploying it to a container cloud and virtual machine](https://github.com/jaantollander/GenieWebApp.jl) by jaantollander@github
 
