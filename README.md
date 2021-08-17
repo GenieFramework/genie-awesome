@@ -21,3 +21,4 @@
 
 2) [MVC app in Genie deploying it to a container cloud and virtual machine](https://github.com/jaantollander/GenieWebApp.jl) by jaantollander@github
 
+3) [Genie MVC web application showing how to build a user facing web page together with a REST API for querying a Netflix titles database](https://github.com/essenciary/genie-watch-tonight) by essenciary@github
