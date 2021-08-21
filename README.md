@@ -17,15 +17,18 @@
 
 # unofficial-community-projects
 
-1) [Genie+Vue3+Plotly+Babylon playground](https://github.com/AlbaIntelligence/Genie_Vue3_Plotly_Babylon_playground__Genie_side) by AlbaIntelligence@github
+* [Genie+Vue3+Plotly+Babylon playground](https://github.com/AlbaIntelligence/Genie_Vue3_Plotly_Babylon_playground__Genie_side) by AlbaIntelligence@github
 
-2) [MVC app in Genie deploying it to a container cloud and virtual machine](https://github.com/jaantollander/GenieWebApp.jl) by jaantollander@github
+* [MVC app in Genie deploying it to a container cloud and virtual machine](https://github.com/jaantollander/GenieWebApp.jl) by jaantollander@github
 
-3) [Genie MVC web application showing how to build a user facing web page together with a REST API for querying a Netflix titles database](https://github.com/essenciary/genie-watch-tonight) by essenciary@github
-
-4) [Ticket ordering system](https://github.com/AquaIndigo/DBTicket) by AquaIndigo
+* [Ticket ordering system](https://github.com/AquaIndigo/DBTicket) by AquaIndigo
 
 
 # Video-Tutorials
 
-1) [Web Apps with Genie.jl @ Julia Munich User Group March 2021](https://youtu.be/0DizdxCSNms) by Adrian Salceanu
+* [Web Apps with Genie.jl @ Julia Munich User Group March 2021](https://youtu.be/0DizdxCSNms) by Adrian Salceanu
+
+
+# Official-projects
+
+* [Genie MVC web application showing how to build a user facing web page together with a REST API for querying a Netflix titles database](https://github.com/essenciary/genie-watch-tonight) by essenciary@github
