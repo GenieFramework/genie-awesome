@@ -24,3 +24,8 @@
 3) [Genie MVC web application showing how to build a user facing web page together with a REST API for querying a Netflix titles database](https://github.com/essenciary/genie-watch-tonight) by essenciary@github
 
 4) [Ticket ordering system](https://github.com/AquaIndigo/DBTicket) by AquaIndigo
+
+
+# Video-Tutorials
+
+1) [Web Apps with Genie.jl | Julia Munich User Group March 2021](https://youtu.be/0DizdxCSNms) by Adrian Salceanu
