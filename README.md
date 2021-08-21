@@ -28,4 +28,4 @@
 
 # Video-Tutorials
 
-1) [Web Apps with Genie.jl | Julia Munich User Group March 2021](https://youtu.be/0DizdxCSNms) by Adrian Salceanu
+1) [Web Apps with Genie.jl @ Julia Munich User Group March 2021](https://youtu.be/0DizdxCSNms) by Adrian Salceanu
