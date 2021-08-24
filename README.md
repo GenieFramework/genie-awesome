@@ -32,3 +32,9 @@
 # Official-projects
 
 * [Genie MVC web application showing how to build a user facing web page together with a REST API for querying a Netflix titles database](https://github.com/essenciary/genie-watch-tonight) by essenciary@github
+
+
+# Articles
+
+[Building Server in Julia and Connecting to a MYSQL Database
+](https://dzone.com/articles/building-server-in-julia-and-connecting-to-a-datab) by Samanway Dey
