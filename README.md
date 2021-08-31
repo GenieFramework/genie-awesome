@@ -23,6 +23,8 @@
 
 * [Ticket ordering system](https://github.com/AquaIndigo/DBTicket) by AquaIndigo
 
+* [Julia TryPostGresSQL editor like w3schools's TrySQL](https://github.com/ashwani-rathee/GeniePostgresExample) by Aashwani Rathee
+
 
 # Video-Tutorials
 
