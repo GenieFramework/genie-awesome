@@ -30,13 +30,17 @@
 
 * [Web Apps with Genie.jl @ Julia Munich User Group March 2021](https://youtu.be/0DizdxCSNms) by Adrian Salceanu
 
+* [Interactive data dashboards with Julia and Stipple @ JuliaCon 2020](https://youtu.be/8sciqIMXBng) by Adrian Salceanu
+
 
 # Official-projects
 
 * [Genie MVC web application showing how to build a user facing web page together with a REST API for querying a Netflix titles database](https://github.com/essenciary/genie-watch-tonight) by essenciary@github
 
+* [Demo data dashboard built with Stipple.jl, StippleUI.jl, StippleCharts.jl, and Genie.jl](https://github.com/GenieFramework/Stipple-Demo-GermanCredits) by GenieFramework@github
+
 
 # Articles
 
-[Building Server in Julia and Connecting to a MYSQL Database
+* [Building Server in Julia and Connecting to a MYSQL Database
 ](https://dzone.com/articles/building-server-in-julia-and-connecting-to-a-datab) by Samanway Dey
