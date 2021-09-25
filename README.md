@@ -25,6 +25,8 @@
 
 * [Julia TryPostGresSQL editor like w3schools's TrySQL](https://github.com/ashwani-rathee/GeniePostgresExample) by Aashwani Rathee
 
+* [Host a minimal Genie.jl web API backend on Heroku using a julia buildpack](https://github.com/milesfrain/GenieOnHeroku) by milesfrain@github
+
 
 # Video-Tutorials
 
