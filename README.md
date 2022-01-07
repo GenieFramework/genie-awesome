@@ -27,6 +27,7 @@
 
 * [Host a minimal Genie.jl web API backend on Heroku using a julia buildpack](https://github.com/milesfrain/GenieOnHeroku) by milesfrain@github
 
+* [ElasticCollision: Genie app utilize GeometryObjects.jl](https://github.com/AtelierArith/ElasticCollision.jl)
 
 # Video-Tutorials
 
