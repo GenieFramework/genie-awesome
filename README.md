@@ -45,6 +45,7 @@
 * [This repository includes a collection of Stipple demo application](https://github.com/GenieFramework/StippleDemos) by GenieFramework@github 
 
 # Articles
+* [Freecodecamp: How to Build Your First Web App in Julia with Genie.jl](https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/) by Logan Kilpatrick 
 
 * [Building Server in Julia and Connecting to a MYSQL Database
 ](https://dzone.com/articles/building-server-in-julia-and-connecting-to-a-datab) by Samanway Dey
