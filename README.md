@@ -17,6 +17,8 @@
 
 # unofficial-community-projects
 
+* [Routing with Genie and Stipple Apps](https://github.com/AbhimanyuAryan/MultiRoute) by @TheCedarPrince + @ai-ml-with-kapil
+
 * [Genie+Vue3+Plotly+Babylon playground](https://github.com/AlbaIntelligence/Genie_Vue3_Plotly_Babylon_playground__Genie_side) by AlbaIntelligence@github
 
 * [MVC app in Genie deploying it to a container cloud and virtual machine](https://github.com/jaantollander/GenieWebApp.jl) by jaantollander@github
