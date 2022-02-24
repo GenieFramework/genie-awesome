@@ -16,8 +16,9 @@
 # Resources
 
 # unofficial-community-projects
+* [Emacs Survey with Genie](https://github.com/tecosaur/emacs-survey) by @tecosaur@github
 
-* [Routing with Genie and Stipple Apps](https://github.com/AbhimanyuAryan/MultiRoute) by @TheCedarPrince + @ai-ml-with-kapil
+* [Routing with Genie and Stipple Apps](https://github.com/AbhimanyuAryan/MultiRoute) by TheCedarPrince@github + ai-ml-with-kapil@github
 
 * [Genie+Vue3+Plotly+Babylon playground](https://github.com/AlbaIntelligence/Genie_Vue3_Plotly_Babylon_playground__Genie_side) by AlbaIntelligence@github
 
