@@ -5,6 +5,7 @@
 > A curated list of awesome things related to Julia's Web framework Genie. Inspired by awesome-quasar
 
 - [Resources](#resources)
+    - [Packages](#packages)
     - [Community Projects](#unofficial-community-projects)
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
@@ -14,6 +15,9 @@
 - [Official Example Projects Using Genie](#official-projects)
 
 # Resources
+
+# packages
+* [NodeGraphEditor.jl is a package for creating browser-based interactive NodeGraphs using Julia](https://github.com/AayushSabharwal/NodeGraphEditor.jl) by AayushSabharwal
 
 # unofficial-community-projects
 * [Emacs Survey with Genie](https://github.com/tecosaur/emacs-survey) by @tecosaur@github
