@@ -22,6 +22,8 @@
 * [NodeGraphEditor.jl is a package for creating browser-based interactive NodeGraphs using Julia](https://github.com/AayushSabharwal/NodeGraphEditor.jl) by AayushSabharwal
 
 # unofficial-community-projects
+* [Hosting a Genie Application](https://github.com/JuliaComputing/GenieAppTutorial.jl) by Julia Computing
+
 * [Create a web server accepting JSON payloads](https://github.com/bkamins/JuliaForDataAnalysis/blob/main/ch14_server.jl) by Bogumił Kamiński from [Book: Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis?utm_source=bkamins&utm_medium=affiliate&utm_campaign=book_kaminski2_julia_3_17_22)
 
 * [Emacs Survey with Genie](https://github.com/tecosaur/emacs-survey) by @tecosaur@github
