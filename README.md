@@ -48,6 +48,7 @@
 
 * [Interactive data dashboards with Julia and Stipple @ JuliaCon 2020](https://youtu.be/8sciqIMXBng) by Adrian Salceanu | (CODE BROKEN)
 
+* [ReactJS and Genie web app](https://github.com/terasakisatoshi/react_genie.jl) by terasakisatoshi 
 
 # Official-projects
 
