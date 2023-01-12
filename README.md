@@ -17,7 +17,9 @@
 # Resources
 
 # packages
-*  [csc-training / GenieWebApp.jl](https://github.com/csc-training/GenieWebApp.jl) -- [read the docs](https://csc-training.github.io/GenieWebApp.jl/dev/) for training 
+*  [csc-training / GenieWebApp.jl](https://github.com/csc-training/GenieWebApp.jl) -- [read the docs](https://csc-training.github.io/GenieWebApp.jl/dev/) for training
+
+* [InteractiveSlides.jl](https://github.com/GlobalClimateForum/InteractiveSlides.jl) -- Create Interactive Presentations 
 
 * [NodeGraphEditor.jl is a package for creating browser-based interactive NodeGraphs using Julia](https://github.com/AayushSabharwal/NodeGraphEditor.jl) by AayushSabharwal
 
