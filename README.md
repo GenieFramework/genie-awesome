@@ -17,6 +17,7 @@
 # Resources
 
 # packages
+*  [Genie Experiments - Demonstrator and reminder of various Genie and Stipple functionnalities](https://github.com/jeremiedb/GenieExperiments.jl) by jeremiedb
 *  [csc-training / GenieWebApp.jl](https://github.com/csc-training/GenieWebApp.jl) -- [read the docs](https://csc-training.github.io/GenieWebApp.jl/dev/) for training
 
 * [InteractiveSlides.jl](https://github.com/GlobalClimateForum/InteractiveSlides.jl) -- Create Interactive Presentations 
