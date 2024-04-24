@@ -1,3 +1,5 @@
+## This list is outdated, see [learn.genieframework.com](https://learn.genieframework.com) and [BuiltWithGenie](https://github.com/BuiltWithGenie) for the newest materials
+
 ![Genie Framework logo](https://raw.githubusercontent.com/GenieFramework/Genie.jl/master/docs/content/img/genie_logo.png)
 
 ## Awesome Genie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
